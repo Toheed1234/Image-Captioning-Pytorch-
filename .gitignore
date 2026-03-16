@@ -4,7 +4,6 @@ flickr8k/
 # PyTorch Model Weights
 *.pth
 *.pt
-
 # Python/Jupyter outputs
 .ipynb_checkpoints/
 __pycache__/
