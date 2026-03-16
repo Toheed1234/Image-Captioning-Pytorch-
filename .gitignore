@@ -1,0 +1,17 @@
+# Large Datasets
+flickr8k/
+
+# PyTorch Model Weights
+*.pth
+*.pt
+
+# Python/Jupyter outputs
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv
+env/
+venv/
